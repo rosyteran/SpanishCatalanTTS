@@ -1,0 +1,20 @@
+# SoundFile
+# munch
+# pydub
+# matplotlib
+# accelerate
+# gradio
+# boto3
+# torchaudio
+# torch
+TTS
+librosa
+nltk
+transformers
+einops
+einops-exts
+tqdm
+typing
+typing-extensions
+git+https://github.com/resemble-ai/monotonic_align.git
+phonemizer

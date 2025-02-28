@@ -1,0 +1,3 @@
+minWorkers: 1
+maxWorkers: 12
+batchSize: 1
