@@ -208,8 +208,8 @@ cd SpanishCatalanTTS
 mkdir model_store
 aws s3 cp s3://optimized-stts2-model/STTS2Encoder.mar model-store/STTS2Encoder.mar
 aws s3 cp s3://optimized-stts2-model/STTS2Catalan.mar model-store/STTS2Catalan.mar
-aws s3 cp s3://optimized-stts2-model/STTS2Encoder.mar model-store/STTS2SpanishEncoder.mar
-aws s3 cp s3://optimized-stts2-model/STTS2Catalan.mar model-store/STTS2Spanish.mar
+aws s3 cp s3://optimized-stts2-model/STTS2SpanishEncoder.mar model-store/STTS2SpanishEncoder.mar
+aws s3 cp s3://optimized-stts2-model/STTS2Spanish.mar model-store/STTS2Spanish.mar
 ```
 
 ### Step 3: Build the Docker Image

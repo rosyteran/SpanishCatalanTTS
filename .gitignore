@@ -22,9 +22,13 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+aws*/
+_model_store/
 .installed.cfg
 *.egg
 MANIFEST
+awscliv2.sig
+awscliv2.zip
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
